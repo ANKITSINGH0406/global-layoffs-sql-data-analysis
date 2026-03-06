@@ -19,7 +19,7 @@
 ### Layoffs increased significantly in 2022 and 2023, reflecting a global economic slowdown and post-pandemic workforce restructuring in technology companies.
 
 # Rolling Total Layoffs Over Time
-![Rolling Total Layoffs](images/images/rolling_layoffs.png.png)
+![Rolling Total Layoffs](images/images/Rolling Total Layoffs Over Time.png.png)
 ## Insight:
 ### The rolling total shows a steady accumulation of layoffs over time, with sharp increases during major restructuring periods in the tech sector.
 
